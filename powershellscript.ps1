@@ -1,3 +1,3 @@
-write-host this is a test!
-write-host im editing stuff now
-write-host I am back
+write-output this is a test!
+write-output im editing stuff now
+write-output I am back
